@@ -1,0 +1,7 @@
+//
+// Prefix header for all source files of the 'DependencyC' target in the 'DependencyC' project
+//
+
+#ifdef __OBJC__
+    #import <Foundation/Foundation.h>
+#endif
